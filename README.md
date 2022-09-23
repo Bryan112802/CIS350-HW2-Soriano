@@ -8,4 +8,4 @@
 ### Technical Background
 When I was in high school I took AP Computer Science where we learned a bit of javascript. Once I graduated, I started taking programming classes at GRCC where I took Java Programming I and Java Programming 2.
 
-[https://www.pinterest.com/pin/717339046887986057/](url)
+['Favorite' Meme](https://www.pinterest.com/pin/717339046887986057/)
